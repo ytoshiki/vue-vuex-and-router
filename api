@@ -1,0 +1,12 @@
+https://api.imgur.com/oauth2/authorize?
+client_id=YOUR_CLIENT_ID&
+response_type=token&
+state=APPLICATION_STATE
+
+
+
+Client Id :
+da1ba64a659b928
+
+Client secret: 
+cc99176ecbd4a5e0aad517e8dfc68021fed73998
